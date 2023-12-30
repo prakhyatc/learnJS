@@ -22,3 +22,33 @@
 // }
 // var result = [2, 3, 6, 8].every(isEven);
 // console.log(result);
+
+//Some Array Methods
+// To set date, full year, month 
+//.Date(), .getFullYear(), .getMonth(), .setFullYear() 
+
+//Some Math methods 
+//Math.random(), Math.swrt(9), Math.max(5,9), Math.min(6,)
+
+
+//Conditions 
+// if (x < y) {
+//     alert("X is greater than y");
+// }
+
+//Common Switch statements
+// switch(fruits)
+// {
+//     case "Banana":
+//         alert("hi");
+//         break;
+//     case "Apple":
+//         alert("hilo");
+//         break;
+// }
+
+//for loops
+// var fruits = ["Apple", "Banana", "Kiwi"];
+// for (x of fruits) {
+//     console.log(x);
+// }
